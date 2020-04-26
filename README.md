@@ -14,3 +14,7 @@
 
 30.04 расскажу на митапе про решение вместе еще с 2-мя командами, которые выступили лучше. Подробности в ods.ai Slack 
 #_meetings_siberia
+
+Ноут лучше смотреть в https://nbviewer.jupyter.org/github/catonmoon/covid-russian-regions/blob/master/covid-predict-russian-regions.ipynb
+
+Он большой, с кучей графиков.
